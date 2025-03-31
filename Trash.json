@@ -1,0 +1,29 @@
+{
+    "DataType": "TrashData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f13",
+    "Items": [
+        {
+            "DataType": "TrashItemData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f13",
+            "TrashID": "energydrink",
+            "GUID": "000473f9-42f2-4cb0-b3d0-6f4f4ef279df",
+            "Position": {
+                "x": -85.76470947265625,
+                "y": -2.384002447128296,
+                "z": -63.68244171142578
+            },
+            "Rotation": {
+                "x": -0.6751275658607483,
+                "y": -0.3052597641944885,
+                "z": -0.21024277806282044,
+                "w": 0.6378222703933716
+            },
+            "Contents": {
+                "TrashIDs": [],
+                "TrashQuantities": []
+            }
+          }             
+    ]
+}
